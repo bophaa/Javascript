@@ -2,12 +2,12 @@ const num = [10, 20, 30, 40];
 const [first, second, ...rest] = num;
 console.log("First :",first); 
 console.log("Second :",second);
-console.log("Rest :",rest);   //Number 1
+console.log("Rest :",rest);   // Number 1
 
 
 const user = { id: 1, username: 'Alice', age: 25 }
 const {username:name} = user;
-console.log("Name :",name);   //Number 2
+console.log("Name :",name);   // Number 2
 
 
 const array1 =[1,2,3];
