@@ -11,7 +11,7 @@ function rant(){
     console.log(result);
     console.log(result);
 }
-rant(); // Number2
+rant(); //  Number2
 
 
 function isSnakeEyes(dice1, dice2){

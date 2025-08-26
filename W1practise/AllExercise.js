@@ -15,7 +15,7 @@ if (isSunny==true){
     console.log("Wear sunglasses");
 }else{
     console.log("Take an umbrella"); 
-}//Number 3
+}/// Number 3
 
 
 let Numbers=[13,24,58,67,2,0];
